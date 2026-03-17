@@ -1,12 +1,17 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Šejla Valjevac
 
-GitHub username:
+GitHub username: sejlavaljevac
+
+---
+## Uvod
+Ja sam Šejla Valjevac, dolazim iz Brčkog i imam 22 godine. Studentica sam treće godine Fakulteta elektrotehnike, usmjerenje Telekomunikacije i informacione tehnologije.
 
 ---
 
@@ -112,4 +117,4 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
