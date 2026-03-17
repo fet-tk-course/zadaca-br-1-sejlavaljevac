@@ -10,6 +10,10 @@ Ime i prezime: Šejla Valjevac
 GitHub username: sejlavaljevac
 
 ---
+## Uvod
+Ja sam Šejla Valjevac, dolazim iz Brčkog i imam 22 godine. Studentica sam treće godine Fakulteta elektrotehnike, usmjerenje Telekomunikacije i informacione tehnologije.
+
+---
 
 ## Opis zadatka
 
